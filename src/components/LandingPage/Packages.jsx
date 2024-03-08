@@ -16,10 +16,10 @@ const Packages = () => {
                 alt="..."
               />
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+                <h5 class="card-title">Vancouver</h5>
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content.
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                  Nihil doloribus eaque sed, dolores ad quod..
                 </p>
                 <Link
                   to="#"
@@ -27,7 +27,7 @@ const Packages = () => {
                   data-bs-toggle="modal"
                   data-bs-target="#booking-modal"
                 >
-                  Go somewhere
+                  Subscribe
                 </Link>
               </div>
             </div>
@@ -40,10 +40,11 @@ const Packages = () => {
                 alt="..."
               />
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+                <h5 class="card-title">Madagascar</h5>
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Voluptatum perspiciatis officiis ab consectetur mollitia
+                  nobis.
                 </p>
                 <Link
                   to="#"
@@ -51,7 +52,7 @@ const Packages = () => {
                   data-bs-toggle="modal"
                   data-bs-target="#booking-modal"
                 >
-                  Go somewhere
+                  Subscribe
                 </Link>
               </div>
             </div>
@@ -64,10 +65,10 @@ const Packages = () => {
                 alt="..."
               />
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+                <h5 class="card-title">Seattle</h5>
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content.
+                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde
+                  animi esse inventore doloremque, repudiandae quisquam.
                 </p>
                 <Link
                   to="#"
@@ -75,7 +76,7 @@ const Packages = () => {
                   data-bs-toggle="modal"
                   data-bs-target="#booking-modal"
                 >
-                  Go somewhere
+                  Subscribe
                 </Link>
               </div>
             </div>
